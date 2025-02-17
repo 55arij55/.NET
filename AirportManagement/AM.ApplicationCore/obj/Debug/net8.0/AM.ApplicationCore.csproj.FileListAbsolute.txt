@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\DELL\Documents\.net Projects\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
